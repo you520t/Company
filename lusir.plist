@@ -13,6 +13,14 @@
                     <key>url</key>
                     <string>http://lusircom.cdn.87641118.com/4a5e3e51d7eb4282b5e068098aba90b1.ipa</string>
                 </dict>
+                <dict>
+                    <key>kind</key>
+                    <string>display-image</string>
+                    <key>needs-shine</key>
+                    <false/>
+                    <key>url</key>
+                    <string>http://lusircom.cdn.87641118.com/ff7daa8949284d448479f218ab9ae61c.png</string>
+                </dict>
             </array>
             <key>metadata</key>
             <dict>
